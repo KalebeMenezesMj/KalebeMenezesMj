@@ -19,7 +19,7 @@ Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de expe
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
   />
 
 </p>
