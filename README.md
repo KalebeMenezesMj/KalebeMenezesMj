@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Kalebe Menezes, tenho 19 anos e sou natural de Santos. Concluí o ensino técnico pela ETEC e atualmente curso Tecnologo em Desenvolvimento de Software Multiplataforma na FATEC.
+Me chamo Kalebe Menezes, tenho 19 anos. Concluí o ensino técnico pela ETEC e atualmente curso Tecnologo em Desenvolvimento de Software Multiplataforma na FATEC.
 
 Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de experiência com frameworks como Laravel e bancos de dados SQL. Também atuo em projetos que envolvem integração entre hardware e software, como automação com Arduino.
 
