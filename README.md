@@ -12,7 +12,7 @@ Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de expe
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" 
+    src="https://github-readme-stats.vercel.app/api?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
   />
 
 <img 
