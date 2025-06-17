@@ -8,18 +8,15 @@ Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de expe
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="display: inline-block; margin-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="display: inline-block;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
   />
-
 </p>
