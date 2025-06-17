@@ -1,16 +1,25 @@
-## Hi there 👋
+## Kalebe Menezes
 
-<!--
-**KalebeMenezesMj/KalebeMenezesMj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+Me chamo Kalebe Menezes, tenho 19 anos e sou natural de Santos. Concluí o ensino técnico pela ETEC e atualmente curso Tecnologo em Desenvolvimento de Software Multiplataforma na FATEC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de experiência com frameworks como Laravel e bancos de dados SQL. Também atuo em projetos que envolvem integração entre hardware e software, como automação com Arduino.
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
