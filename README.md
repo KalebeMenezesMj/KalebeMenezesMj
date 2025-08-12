@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/wHk8cNo.png" width="100%" alt="Banner - Kalebe Menezes" />
+<img src="https://imgur.com/a/D6CZklG.png" width="100%" alt="Banner - Kalebe Menezes" />
 
 ## 🚀 Kalebe Menezes
 
