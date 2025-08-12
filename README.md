@@ -1,11 +1,29 @@
-## Kalebe Menezes
+<img src="https://i.imgur.com/wHk8cNo.png" width="100%" alt="Banner - Kalebe Menezes" />
 
-**`Desenvolvedor Back-End`**
+## 🚀 Kalebe Menezes
 
-Me chamo Kalebe Menezes, tenho 19 anos. Concluí o ensino técnico pela ETEC e atualmente curso Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC.
+**`Desenvolvedor Back-End`**  
 
-Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de experiência com frameworks como Laravel e bancos de dados SQL. Também atuo em projetos que envolvem integração entre hardware e software, como automação com Arduino.
+💡 Apaixonado por tecnologia e soluções criativas, com foco no desenvolvimento back-end e integração entre hardware e software.  
 
+🎓 **Formação:**  
+- Técnico em Desenvolvimento de Sistemas — ETEC ✅  
+- Tecnólogo em Desenvolvimento de Software Multiplataforma — FATEC *(cursando)*  
+
+🛠 **Tecnologias e Ferramentas:**  
+- **Linguagens:** Java, C#, C++, PHP  
+- **Frameworks:** Laravel  
+- **Banco de Dados:** MySQL, SQL Server  
+- **Hardware & IoT:** Arduino, ESP32  
+
+💻 **Áreas de interesse:**  
+- APIs e sistemas back-end escaláveis  
+- Integração hardware/software  
+- Automação e IoT  
+
+---
+
+### 📈 Estatísticas no GitHub
 <table>
   <tr>
     <td>
@@ -17,10 +35,23 @@ Tenho conhecimento prático em linguagens como Java, C#, C++, PHP, além de expe
     </td>
     <td>
       <img 
-        alt="GitHub Stats" 
+        alt="Top Langs" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeMenezesMj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
       />
     </td>
   </tr>
 </table>
+
+---
+
+### 🌟 Projetos em Destaque  
+- [**Projeto Laravel Avalliar**](#) — Plataforma de avaliação usando Laravel e MySQL  
+- [**Atividade MegaSena**](#) — Aplicação PHP para simulação de sorteios  
+- [**Controlador MIDI com ESP32**](#) — Projeto de integração hardware/software para controle musical  
+
+---
+
+📫 **Conecte-se comigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KalebeMenezes-blue?logo=linkedin)](https://www.linkedin.com/in/kalebemenezes)  
+[![GitHub](https://img.shields.io/badge/GitHub-KalebeMenezesMj-lightgrey?logo=github)](https://github.com/KalebeMenezesMj)  
