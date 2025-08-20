@@ -13,7 +13,7 @@
 🛠 **Tecnologias e Ferramentas:**  
 - **Linguagens:** Java, C#, C++, PHP  
 - **Frameworks:** Laravel  
-- **Banco de Dados:** MySQL, SQL Server  
+- **Banco de Dados:** MySQL, SQL Server, Postgre 
 - **Hardware & IoT:** Arduino, ESP32  
 
 💻 **Áreas de interesse:**  
