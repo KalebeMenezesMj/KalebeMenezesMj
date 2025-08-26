@@ -55,3 +55,4 @@
 📫 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KalebeMenezes-blue?logo=linkedin)](https://www.linkedin.com/in/kalebemenezes)  
 [![GitHub](https://img.shields.io/badge/GitHub-KalebeMenezesMj-lightgrey?logo=github)](https://github.com/KalebeMenezesMj)  
+Email: kalebe.menezesmj@gmail.com
